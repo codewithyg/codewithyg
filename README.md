@@ -12,12 +12,14 @@ Java와 Spring Boot를 중심으로 백엔드 개발을 공부하고 있습니�
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25"/>
 </p>
 
 ### 📚 Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" height="25"/>
 </p>
 
 ### 🗄️ Database
