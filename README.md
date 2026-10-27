@@ -4,7 +4,7 @@
 
 Java와 Spring Boot를 중심으로 백엔드 개발을 학습하고 있습니다.
 
-개인 프로젝트를 통해 REST API와 데이터베이스 연동 기능을 구현하고 있으며, Linux와 Docker를 활용한 서버 환경 구성 및 운영에도 관심을 가지고 있습니다.
+개인 프로젝트에서 REST API와 데이터베이스 연동 기능을 구현하고 있으며, Linux·Docker·Proxmox를 활용한 개인 서버 환경 구성 및 운영 경험이 있습니다.
 
 ## 💻 Tech Stack
 
@@ -44,6 +44,7 @@ Java와 Spring Boot를 중심으로 백엔드 개발을 학습하고 있습니�
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25"/>
 </p>
 
+
 ## 📂 Projects
 
 ### InterviewRoom
@@ -52,9 +53,9 @@ Java와 Spring Boot를 중심으로 백엔드 개발을 학습하고 있습니�
 
 면접 질문을 카테고리·난이도·유형별로 관리하는 웹 애플리케이션입니다.
 
-- 개인 프로젝트
-- 질문 CRUD 및 REST API 구현
-- React 프론트엔드와 Spring Boot 백엔드 연동
+- 개인 프로젝트 (진행 중)
+- Spring Boot 기반 질문 CRUD REST API 구현
+- React 프론트엔드와 백엔드 API 연동
 
 [🔗 GitHub Repository](https://github.com/codewithyg/interviewroom)
 
@@ -64,8 +65,7 @@ Java와 Spring Boot를 중심으로 백엔드 개발을 학습하고 있습니�
 
 ROS 2 기반 운반 로봇을 개발한 캡스톤디자인 팀 프로젝트입니다.
 
-- 담당 역할: 추적주행 기능 개발
-- YOLO 객체 인식 결과와 Depth Camera 거리 데이터 처리
-- ROS 2 기반 로봇 주행 제어 로직 구현
+- 담당 역할: Python·ROS 2 기반 추적주행 기능 구현
+- YOLO 객체 인식 결과와 Depth Camera의 거리 데이터를 활용한 주행 제어 로직 구현
 
 [🔗 Team Repository](https://github.com/follow-cart/follow-cart)
